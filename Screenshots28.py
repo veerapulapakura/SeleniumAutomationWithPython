@@ -7,7 +7,7 @@ driver=webdriver.Chrome(
 
 driver.get("https://www.eenadu.net/")
 
-driver.get_screenshot_as_file("C:\\Users\\User\\PycharmProjects\\pythonProjectSample\\Screenshots\\6.jpg")
+driver.get_screenshot_as_file("C:\\Users\\User\\PycharmProjects\\pythonProjectSample\\Screenshots\\9.png")
 
 #driver.save_screenshot("C:\\Users\\User\\PycharmProjects\\pythonProjectSample\\Screenshots\\5.png")
 time.sleep(3)
